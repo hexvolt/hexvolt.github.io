@@ -1,5 +1,9 @@
 * Camera specs
 * Capturing video with raspberry camera
+    * MJPG: standard
+    * RTMP: standard
+    * RTMP: hosting server or streaming to remote server
+    * blocking/non-blocking access?
 * How to stream to Youtube, quotas
 * OAuth2.0 - overview, types of authentication, explanation of selected authentication process
   - 3 participants: Cloud service, Application, User

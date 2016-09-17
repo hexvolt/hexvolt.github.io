@@ -1,14 +1,15 @@
 * Goal
 * Camera specs, samples
+* Capturing photo and video (MMAL, access to hardware)
 * Access Raspberry over the Internet
     * Router setup (pros and cons)
     * Static IP
     * dataplicity.com
     
-* Capturing video with raspberry camera
-    * MJPG: standard
+* Streaming video with raspberry camera
+    * MJPG: format
     * MJPG: Python example, bottlenecks, cons 
-    * RTMP: standard
+    * RTP: protocol
     * RTMP: hosting server or streaming to remote server
     * blocking/non-blocking access?
 
